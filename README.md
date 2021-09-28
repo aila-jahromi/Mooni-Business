@@ -1,16 +1,15 @@
 ## Welcome to Mooni Business
-You can use the [editor on GitHub](https://github.com/aila-jahromi/Mooni-Business/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+View and possibly shop handmade embroiedered, knitted and crocheted garments.
+For orders anbd more information, visit @mooni_business on Instagram!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Embroidered
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+All the following pieces and tote bags are embroidered by hand and the designs are inspired by customers, pinterest, and other forms of social media
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# Fall inspired cami 
 ## Header 2
 ### Header 3
 
@@ -27,7 +26,7 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Knitted/Crocheted 
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aila-jahromi/Mooni-Business/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
