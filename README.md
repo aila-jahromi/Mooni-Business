@@ -47,8 +47,3 @@ All the following pieces are either knitted or crocheted by hand and the designs
 ## **Customization available for both embroidery and knitting/crocheting**
 
 For more inspiration and informatio, visit [Link](https://www.instagram.com/mooni_business/?hl=en) 
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
