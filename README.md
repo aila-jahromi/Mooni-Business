@@ -8,17 +8,17 @@ All the following pieces and tote bags are embroidered by hand and the designs a
 
 - Bulleted Fall inspired cami 
 
-![Image](src)
+(![Image](src))
 
 ##### _$12 USD_ 
 -  One-lined Tote Bag Designs  
 
-![Image](src)
+![Image](src) 
 
 ##### _$15 USD/each_
 - Spring inspired Tote Bag 
 
-![Image](src)
+
 
 ##### _$12 USD_
 
