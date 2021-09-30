@@ -24,7 +24,7 @@ All the following pieces and tote bags are embroidered by hand and the designs a
 ##### _$15 USD/each_
 - Spring inspired Tote Bag 
 
-
+![vest](vest.JPG)
 
 
 
