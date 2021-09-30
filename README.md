@@ -51,7 +51,6 @@ All the following pieces are either knitted or crocheted by hand and the designs
 - BUCKET HATS: no explanation needed
 
 
-
 #### _$12 USD_ 
 
 
