@@ -33,8 +33,7 @@ All the following pieces are either knitted or crocheted by hand and the designs
 - Small Handbags perfect for daily walks 
 #### _$12 USD_ 
 
-![IMG_6127](https://user-images.githubusercontent.com/91549927/135477474-2f2fd61f-b770-4eb5-9ad8-22223960c140.PNG)
-
+![IMG_6127 (1)](https://user-images.githubusercontent.com/91549927/135478906-b654cc52-8328-4af5-8dc7-7b66243a21d9.PNG)
 
 - Fall Vests: an essetnial for the new fall weather 
 
