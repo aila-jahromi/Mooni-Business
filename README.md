@@ -1,6 +1,6 @@
 # Welcome to Mooni Business
 View and possibly shop handmade embroiedered, knitted and crocheted garments.
-For orders anbd more information, visit @mooni_business on Instagram!
+For orders and more information, visit @mooni_business on Instagram by clicking [HERE](https://www.instagram.com/mooni_business/?hl=en) !
 
 ## Embroidered
 
@@ -39,6 +39,7 @@ All the following pieces are either knitted or crocheted by hand and the designs
 
 #### _$25 USD_
 
+
  ![vest](https://user-images.githubusercontent.com/91549927/135475269-3bdd91bc-8bc7-43f0-989c-507d18dea02c.JPG)
  
 
@@ -51,4 +52,4 @@ All the following pieces are either knitted or crocheted by hand and the designs
 
 ## **Customization available for both embroidery and knitting/crocheting**
 
-For more inspiration and informatio, visit [Link](https://www.instagram.com/mooni_business/?hl=en) 
+## For more inspiration and informatio, visit [Mooni_Business](https://www.instagram.com/mooni_business/?hl=en) on Instagram!
